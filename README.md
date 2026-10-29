@@ -41,8 +41,8 @@ Screenshots
 
 Add screenshots to a screenshots/ folder and link them here:
 
-![Portrait](screenshots/portrait.png)
-![Landscape](screenshots/landscape.png)
+![Portrait](screenshots/Screenshot_normalno.png)
+![Landscape](screenshots/Screenshot_obrnjeno.png)
 Author
 
 GitHub: aljo08
